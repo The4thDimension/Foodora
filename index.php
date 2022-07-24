@@ -309,6 +309,257 @@ session_start(); //start temp session until logout/browser closed
                 <div class="container">
                     <div class="row text-img-block text-xs-left">
                        
+
+
+
+
+
+                    <div class = "main">
+        <div class="container">
+            <div class="head">
+                <img src="images/image-equilibrium.jpeg" alt="The super cool cube image" class="img">
+                <!-- <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> -->
+            </div>
+
+            <div class="content">
+
+                <h3>Mahesh P</h2>
+                    <p>Our Equilibrium collection promotes balance and calm.</p>
+                    <div class="span">
+
+                        <div class="left">
+                            <span class="img">
+                                <img src="images/icon-ethereum.svg" alt="Ethereum Icon" class="icon">
+                            </span><span class="text">
+                                <p> 0.041ETH
+                                </p>
+                            </span>
+                        </div>
+                        <div class="right">
+                            <span class="img">
+                                <img src="images/icon-clock.svg" alt="Clock Icon" class="icon">
+                            </span><span class="text">
+                                <p> 3 days left
+                                </p>
+                            </span>
+                        </div>
+                    </div>
+
+            </div>
+            <hr class="line">
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Creation of <span id="name"> Jules Wyvern</span></p>
+                </span>
+            </div>
+        </div>
+                                        </div>
+
+
+
+
+
+                                        <div class = "main">
+        <div class="container">
+            <div class="head">
+                <img src="images/image-equilibrium.jpeg" alt="The super cool cube image" class="img">
+                <!-- <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> -->
+            </div>
+
+            <div class="content">
+
+                <h3>Equilibrium #3429</h2>
+                    <p>Our Equilibrium collection promotes balance and calm.</p>
+                    <div class="span">
+
+                        <div class="left">
+                            <span class="img">
+                                <img src="images/icon-ethereum.svg" alt="Ethereum Icon" class="icon">
+                            </span><span class="text">
+                                <p> 0.041ETH
+                                </p>
+                            </span>
+                        </div>
+                        <div class="right">
+                            <span class="img">
+                                <img src="images/icon-clock.svg" alt="Clock Icon" class="icon">
+                            </span><span class="text">
+                                <p> 3 days left
+                                </p>
+                            </span>
+                        </div>
+                    </div>
+
+            </div>
+            <hr class="line">
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Creation of <span id="name"> Jules Wyvern</span></p>
+                </span>
+            </div>
+        </div>
+                                        </div>
+
+
+
+
+
+
+
+
+
+                                        <div class = "main">
+        <div class="container">
+            <div class="head">
+                <img src="images/image-equilibrium.jpeg" alt="The super cool cube image" class="img">
+                <!-- <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> -->
+            </div>
+
+            <div class="content">
+
+                <h3>Equilibrium #3429</h2>
+                    <p>Our Equilibrium collection promotes balance and calm.</p>
+                    <div class="span">
+
+                        <div class="left">
+                            <span class="img">
+                                <img src="images/icon-ethereum.svg" alt="Ethereum Icon" class="icon">
+                            </span><span class="text">
+                                <p> 0.041ETH
+                                </p>
+                            </span>
+                        </div>
+                        <div class="right">
+                            <span class="img">
+                                <img src="images/icon-clock.svg" alt="Clock Icon" class="icon">
+                            </span><span class="text">
+                                <p> 3 days left
+                                </p>
+                            </span>
+                        </div>
+                    </div>
+
+            </div>
+            <hr class="line">
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Creation of <span id="name"> Jules Wyvern</span></p>
+                </span>
+            </div>
+        </div>
+                                        </div>
+
+
+
+
+
+
+    <div class = "main">
+        <div class="container">
+            <div class="head">
+                <img src="images/image-equilibrium.jpeg" alt="The super cool cube image" class="img">
+                <!-- <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> -->
+            </div>
+
+            <div class="content">
+
+                <h3>Equilibrium #3429</h2>
+                    <p>Our Equilibrium collection promotes balance and calm.</p>
+                    <div class="span">
+
+                        <div class="left">
+                            <span class="img">
+                                <img src="images/icon-ethereum.svg" alt="Ethereum Icon" class="icon">
+                            </span><span class="text">
+                                <p> 0.041ETH
+                                </p>
+                            </span>
+                        </div>
+                        <div class="right">
+                            <span class="img">
+                                <img src="images/icon-clock.svg" alt="Clock Icon" class="icon">
+                            </span><span class="text">
+                                <p> 3 days left
+                                </p>
+                            </span>
+                        </div>
+                    </div>
+
+            </div>
+            <hr class="line">
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Creation of <span id="name"> Jules Wyvern</span></p>
+                </span>
+            </div>
+        </div>
+                                        </div>
+
+
+
+
+
+
+
+
+
+    <div class = "main">
+        <div class="container">
+            <div class="head">
+                <img src="images/image-equilibrium.jpeg" alt="The super cool cube image" class="img">
+                <!-- <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> -->
+            </div>
+
+            <div class="content">
+
+                <h3>Equilibrium #3429</h2>
+                    <p>Our Equilibrium collection promotes balance and calm.</p>
+                    <div class="span">
+
+                        <div class="left">
+                            <span class="img">
+                                <img src="images/icon-ethereum.svg" alt="Ethereum Icon" class="icon">
+                            </span><span class="text">
+                                <p> 0.041ETH
+                                </p>
+                            </span>
+                        </div>
+                        <div class="right">
+                            <span class="img">
+                                <img src="images/icon-clock.svg" alt="Clock Icon" class="icon">
+                            </span><span class="text">
+                                <p> 3 days left
+                                </p>
+                            </span>
+                        </div>
+                    </div>
+
+            </div>
+            <hr class="line">
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Creation of <span id="name"> Jules Wyvern</span></p>
+                </span>
+            </div>
+        </div>
+                                        </div>
+
+
+
+
+
+
+
                         </div>
                     </div>
                 </div>
