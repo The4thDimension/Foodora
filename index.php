@@ -21,7 +21,10 @@ session_start(); //start temp session until logout/browser closed
     <link href="css/animsition.min.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="css/style.css" rel="stylesheet"> </head>
+    <link href="css/style.css" rel="stylesheet"> 
+    <link rel="stylesheet" href = "css/newStyle.css">
+
+</head>
 
 <body class="home">
     
@@ -305,26 +308,7 @@ session_start(); //start temp session until logout/browser closed
             <div class="app-wrap">
                 <div class="container">
                     <div class="row text-img-block text-xs-left">
-                        <div class="container">
-                            <div class="col-xs-12 col-sm-5 right-image text-center">
-                                <figure> <img src="images/app.png" alt="Right Image" class="img-fluid"> </figure>
-                            </div>
-                            <div class="col-xs-12 col-sm-7 left-text">
-                                <h3>Food Picky - The Best Food Delivery App</h3>
-                                <p>Got Hungry? Get the food you want, from the restaurants you love, delivered at blinking speed.
-
-								Eat what you like, where you like, when you like. Find the local flavours you crave, all at the tap of a button.</p>
-                                <div class="social-btns">
-                                    <a href="#" class="app-btn apple-button clearfix">
-                                        <div class="pull-left"><i class="fa fa-apple"></i> </div>
-                                        <div class="pull-right"> <span class="text">Available on the</span> <span class="text-2">App Store</span> </div>
-                                    </a>
-                                    <a href="#" class="app-btn android-button clearfix">
-                                        <div class="pull-left"><i class="fa fa-android"></i> </div>
-                                        <div class="pull-right"> <span class="text">Available on the</span> <span class="text-2">Play Store</span> </div>
-                                    </a>
-                                </div>
-                            </div>
+                       
                         </div>
                     </div>
                 </div>
@@ -336,7 +320,7 @@ session_start(); //start temp session until logout/browser closed
                 <!-- top footer statrs -->
                 <div class="row top-footer">
                     <div class="col-xs-12 col-sm-3 footer-logo-block color-gray">
-                        <a href="#"> <img src="images/food-picky-logo.png" alt="Footer logo"> </a> <span>Choose it &amp; Enjoy your meals! </span> </div>
+                        <a href="#"> <img src="images/food-picky-logo.png" alt="Footer logo" id = "logo"> </a> <span>Choose it &amp; Enjoy your meals! </span> </div>
                     <div class="col-xs-12 col-sm-2 about color-gray">
                         <h5>About Us</h5>
                         <ul>
@@ -386,7 +370,7 @@ session_start(); //start temp session until logout/browser closed
                 </div>
                 <!-- top footer ends -->
                 <!-- bottom footer statrs -->
-                <div class="bottom-footer">
+               <!--  <div class="bottom-footer">
                     <div class="row">
                         <div class="col-xs-12 col-sm-3 payment-options color-gray">
                             <h5>All Major Credit Cards Accepted</h5>
@@ -417,7 +401,7 @@ session_start(); //start temp session until logout/browser closed
                             <p>Launched in 2021, Our technology platform connects customers, restaurant partners and delivery partners, serving their multiple needs. Customers use our platform to search and discover restaurants, read and write customer generated reviews and view and upload photos, order food delivery, book a table and make payments while dining-out at restaurants.</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- bottom footer ends -->
             </div>
         </footer>
@@ -436,3 +420,36 @@ session_start(); //start temp session until logout/browser closed
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div class="container">
+                            <div class="col-xs-12 col-sm-5 right-image text-center">
+                                <figure> <img src="images/app.png" alt="Right Image" class="img-fluid"> </figure>
+                            </div>
+                            <div class="col-xs-12 col-sm-7 left-text">
+                                <h3>Food Picky - The Best Food Delivery App</h3>
+                                <p>Got Hungry? Get the food you want, from the restaurants you love, delivered at blinking speed.
+
+								Eat what you like, where you like, when you like. Find the local flavours you crave, all at the tap of a button.</p>
+                                <div class="social-btns">
+                                    <a href="#" class="app-btn apple-button clearfix">
+                                        <div class="pull-left"><i class="fa fa-apple"></i> </div>
+                                        <div class="pull-right"> <span class="text">Available on the</span> <span class="text-2">App Store</span> </div>
+                                    </a>
+                                    <a href="#" class="app-btn android-button clearfix">
+                                        <div class="pull-left"><i class="fa fa-android"></i> </div>
+                                        <div class="pull-right"> <span class="text">Available on the</span> <span class="text-2">Play Store</span> </div>
+                                    </a>
+                                </div>
+                            </div> -->
