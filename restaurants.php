@@ -178,7 +178,7 @@ session_start();
                 </div>
             </section>
                     <section class="app-section">
-            <div class="app-wrap">
+            <!-- <div class="app-wrap">
                 <div class="container">
                     <div class="row text-img-block text-xs-left">
                         <div class="container">
@@ -203,7 +203,7 @@ session_start();
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </section>
                     <!-- start: FOOTER -->
@@ -244,7 +244,7 @@ session_start();
                             <li><a href="#">Offer Terms</a> </li>
                         </ul>
                     </div>
-                    <div class="col-xs-12 col-sm-3 popular-locations color-gray">
+                    <!-- <div class="col-xs-12 col-sm-3 popular-locations color-gray">
                         <h5>Locations We Deliver To</h5>
                         <ul>
                             <li><a href="#">Chennai</a> </li>
@@ -258,42 +258,59 @@ session_start();
                             <li><a href="#">Thoothukudi</a> </li>
                             <li><a href="#">Kanyakumari</a> </li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
                 <!-- top footer ends -->
                 <!-- bottom footer statrs -->
-                <div class="bottom-footer">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-3 payment-options color-gray">
-                            <h5>All Major Credit Cards Accepted</h5>
-                            <ul>
-                                <li>
-                                    <a href="#"> <img src="images/paypal.png" alt="Paypal"> </a>
-                                </li>
-                                <li>
-                                    <a href="#"> <img src="images/mastercard.png" alt="Mastercard"> </a>
-                                </li>
-                                <li>
-                                    <a href="#"> <img src="images/maestro.png" alt="Maestro"> </a>
-                                </li>
-                                <li>
-                                    <a href="#"> <img src="images/stripe.png" alt="Stripe"> </a>
-                                </li>
-                                <li>
-                                    <a href="#"> <img src="images/bitcoin.png" alt="Bitcoin"> </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-xs-12 col-sm-4 address color-gray">
-                            <h5>Address:</h5>
-                            <p>Mahatma Gandhi Salai, Chennai - 600034.</p>
-                            <h5>Call us at: <a href="tel:+914450005500">+91 44 50005500</a></h5></div>
-                        <div class="col-xs-12 col-sm-5 additional-info color-gray">
-                            <h5>Who are we?</h5>
-                            <p>Launched in 2021, Our technology platform connects customers, restaurant partners and delivery partners, serving their multiple needs. Customers use our platform to search and discover restaurants, read and write customer generated reviews and view and upload photos, order food delivery, book a table and make payments while dining-out at restaurants.</p>
-                        </div>
-                    </div>
-                </div>
+                <div class="bottom-footer"> 
+
+
+               <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Team Member:- </p><p> <span id="name"> Nikhil Plement</span></p>
+                </span>
+            </div>
+
+
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Team member:- </p><p><span id="name"> Shinu CM</span></p>
+                </span>
+            </div>
+
+
+
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p> Team member:-</p><p> <span id="name"> Sudhish Sankar R</span></p>
+                </span>
+            </div>
+
+
+
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Team member:- </p><p> <span id="name"> Ananthakrishnan</span></p>
+                </span>
+            </div>
+
+
+
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Mentor:- </p><p> <span id="name"> Mary Priyanka</span></p>
+                </span>
+            </div>
                 <!-- bottom footer ends -->
             </div>
         </footer>

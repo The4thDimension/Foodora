@@ -43,14 +43,14 @@
     z-index: 1;
 }
 
-.main .container .head .eyes {
+/* .main .container .head .eyes {
     position: absolute;
     height: 34px;
     width: 51px;
     top: 27%;
     left: 44.5%;
     z-index: 0;
-}
+} */
 
 .main .container .head img {
     width: 100%;
@@ -131,6 +131,16 @@ main .container .foot {
     height: 1.5px;
     width: 92%;
     border: none;
+}
+
+.bottom-footer{
+    width: 100%;
+    padding: 0;
+}
+.foot{
+    display: inline-block;
+    margin: .7%;
+    width: 17%;
 }
 
 .main .container .foot p {

@@ -314,15 +314,14 @@ session_start(); //start temp session until logout/browser closed
 
 
 
-                    <div class = "main">
+                   <!-- <div class = "main">
         <div class="container">
             <div class="head">
                 <img src="images/image-equilibrium.jpeg" alt="The super cool cube image" class="img">
-                <!-- <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> -->
+                 <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> 
             </div>
 
             <div class="content">
-
                 <h3>Mahesh P</h2>
                     <p>Our Equilibrium collection promotes balance and calm.</p>
                     <div class="span">
@@ -347,13 +346,7 @@ session_start(); //start temp session until logout/browser closed
 
             </div>
             <hr class="line">
-            <div class="foot">
-                <span class="img">
-                    <img src="images/image-avatar.png" alt="Image of the creator">
-                </span> <span class="text">
-                    <p>Creation of <span id="name"> Jules Wyvern</span></p>
-                </span>
-            </div>
+            
         </div>
                                         </div>
 
@@ -365,7 +358,7 @@ session_start(); //start temp session until logout/browser closed
         <div class="container">
             <div class="head">
                 <img src="images/image-equilibrium.jpeg" alt="The super cool cube image" class="img">
-                <!-- <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> -->
+                <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> 
             </div>
 
             <div class="content">
@@ -416,7 +409,7 @@ session_start(); //start temp session until logout/browser closed
         <div class="container">
             <div class="head">
                 <img src="images/image-equilibrium.jpeg" alt="The super cool cube image" class="img">
-                <!-- <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> -->
+                 <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> 
             </div>
 
             <div class="content">
@@ -464,7 +457,7 @@ session_start(); //start temp session until logout/browser closed
         <div class="container">
             <div class="head">
                 <img src="images/image-equilibrium.jpeg" alt="The super cool cube image" class="img">
-                <!-- <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> -->
+                 <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> 
             </div>
 
             <div class="content">
@@ -515,7 +508,7 @@ session_start(); //start temp session until logout/browser closed
         <div class="container">
             <div class="head">
                 <img src="images/image-equilibrium.jpeg" alt="The super cool cube image" class="img">
-                <!-- <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> -->
+                 <span class="eyes"><img src="images/icon-view.svg" alt="Eyes icon"></span> 
             </div>
 
             <div class="content">
@@ -552,7 +545,7 @@ session_start(); //start temp session until logout/browser closed
                 </span>
             </div>
         </div>
-                                        </div>
+                                        </div>-->
 
 
 
@@ -603,7 +596,7 @@ session_start(); //start temp session until logout/browser closed
                             <li><a href="#">Offer Terms</a> </li>
                         </ul>
                     </div>
-                    <div class="col-xs-12 col-sm-3 popular-locations color-gray">
+                    <!--<div class="col-xs-12 col-sm-3 popular-locations color-gray">
                         <h5>Locations We Deliver To</h5>
                         <ul>
                             <li><a href="#">Chennai</a> </li>
@@ -617,12 +610,93 @@ session_start(); //start temp session until logout/browser closed
                             <li><a href="#">Thoothukudi</a> </li>
                             <li><a href="#">Kanyakumari</a> </li>
                         </ul>
-                    </div>
+                    </div>-->
                 </div>
                 <!-- top footer ends -->
                 <!-- bottom footer statrs -->
-               <!--  <div class="bottom-footer">
-                    <div class="row">
+                <div class="bottom-footer"> 
+
+
+               <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Team Member:- </p><p> <span id="name"> Nikhil Plement</span></p>
+                </span>
+            </div>
+
+
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Team member:- </p><p><span id="name"> Shinu CM</span></p>
+                </span>
+            </div>
+
+
+
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p> Team member:-</p><p> <span id="name"> Sudhish Sankar R</span></p>
+                </span>
+            </div>
+
+
+
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Team member:- </p><p> <span id="name"> Ananthakrishnan</span></p>
+                </span>
+            </div>
+
+
+
+            <div class="foot">
+                <span class="img">
+                    <img src="images/image-avatar.png" alt="Image of the creator">
+                </span> <span class="text">
+                    <p>Mentor:- </p><p> <span id="name"> Mary Priyanka</span></p>
+                </span>
+            </div>
+                    
+                <!-- bottom footer ends -->
+            </div>
+        </footer>
+        <!-- end:Footer -->
+    
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/tether.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/animsition.min.js"></script>
+    <script src="js/bootstrap-slider.min.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/headroom.js"></script>
+    <script src="js/foodpicky.min.js"></script>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<div class="row">
                         <div class="col-xs-12 col-sm-3 payment-options color-gray">
                             <h5>All Major Credit Cards Accepted</h5>
                             <ul>
@@ -653,30 +727,6 @@ session_start(); //start temp session until logout/browser closed
                         </div>
                     </div>
                 </div> -->
-                <!-- bottom footer ends -->
-            </div>
-        </footer>
-        <!-- end:Footer -->
-    
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/tether.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/animsition.min.js"></script>
-    <script src="js/bootstrap-slider.min.js"></script>
-    <script src="js/jquery.isotope.min.js"></script>
-    <script src="js/headroom.js"></script>
-    <script src="js/foodpicky.min.js"></script>
-</body>
-
-</html>
-
-
-
-
-
-
 
 
 
